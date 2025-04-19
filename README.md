@@ -21,9 +21,6 @@ I'm currently working on a **chatbot project hosted on Azure**, designed to [bri
 The project leverages **FastAPI** for the API layer, **Streamlit** for the user interface, and **Azure services** for hosting and deployment.  
 This project is an exciting challenge where I’m combining **AI**, **cloud architecture**, and **automation** to deliver a scalable solution.
 
-![St-6 5](https://github.com/user-attachments/assets/f8e093b0-78db-42b6-b480-b83fdf2f43db)
-
-
 
 
 ![371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca](https://github.com/user-attachments/assets/e22159b8-6ef9-4694-a94c-558ff60fb6bf)
