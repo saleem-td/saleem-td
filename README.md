@@ -16,13 +16,10 @@ I'm a **Network Systems Engineer** with a passion for blending infrastructure, a
 ---
 
 ### 🚀 **Current Project: Chatbot with Azure**
-
+![St-6 5](https://github.com/user-attachments/assets/db7f40dd-7c38-4704-b65c-f077340575be)
 I'm currently working on a **chatbot project hosted on Azure**, designed to [briefly describe what the chatbot does, e.g., provide customer support, assist in tech troubleshooting, etc.].  
 The project leverages **FastAPI** for the API layer, **Streamlit** for the user interface, and **Azure services** for hosting and deployment.  
 This project is an exciting challenge where I’m combining **AI**, **cloud architecture**, and **automation** to deliver a scalable solution.
 
-
-
-![371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca](https://github.com/user-attachments/assets/e22159b8-6ef9-4694-a94c-558ff60fb6bf)
 
 
